@@ -12,7 +12,7 @@ export const BusinessCard = () => {
                 width={120}
             />
             <div className='flex'>
-                <h1 className='pr-4 font-semibold text-[14px]'>Benny Babykuty</h1>
+                <h1 className='pr-4 font-semibold text-[14px]'>B Benny</h1>
                 <h1 className='pl-4 border-l-2 border-blue-400 font-semibold text-[14px]'>General Manager</h1>
             </div>
         </div>
@@ -22,7 +22,7 @@ export const BusinessCard = () => {
             className="w-16 h-16"
         />
       </div>
-      <div className='flex justify-between'>
+      <div className='flex justify-between pb-3'>
         <span className='pr text-[10px] w-1/2'>P.O Box 336<br/>
             Prince Mashhour Street,<br/>
             Opp. Hyper Panda, Al Jubail<br/>
